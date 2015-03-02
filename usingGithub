@@ -1,9 +1,19 @@
 A 'man'-page reference for each command.
-http://git-scm.com/docs/ Git Reference
+http://git-scm.com/docs/
+
+Git Reference
 "quick reference for learning and remembering the most important and commonly used Git commands."
-http://gitref.org/ Good explanations of the concepts and useful as a reference book.
-http://git-scm.com/book/en/v2 Generates .gitignore files for your language or environment.
-https://www.gitignore.io/ Good explanation of branching issues for a development team for release management.
-http://nvie.com/posts/a-successful-git-branching-model/ Tutorials to get started with the basics.
+http://gitref.org/
+
+Good explanations of the concepts and useful as a reference book.
+http://git-scm.com/book/en/v2
+
+Generates .gitignore files for your language or environment.
+https://www.gitignore.io/
+
+Good explanation of branching issues for a development team for release management.
+http://nvie.com/posts/a-successful-git-branching-model/
+
+Tutorials to get started with the basics.
 http://www.drdobbs.com/tools/getting-started-with-git-the-fundamental/
 http://www.drdobbs.com/architecture-and-design/git-tutorial-branches-and-workflow
