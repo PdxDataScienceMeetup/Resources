@@ -1,5 +1,10 @@
+A few helpful references when learning Git.
+
 A 'man'-page reference for each command.
 http://git-scm.com/docs/
+
+"A Visual Git Reference" for a few common commands.
+http://marklodato.github.io/visual-git-guide/index-en.html
 
 Git Reference
 "quick reference for learning and remembering the most important and commonly used Git commands."
